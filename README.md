@@ -5,10 +5,14 @@ The prupose of this analysis is to summarize the [raw voting data](https://githu
 ## Results
 
 Election Audit Summary:
+Use images or examples of your code as support where necessary.
+- There were 369,711 votes cast in this election
+- By County:
+  -Jefferson county had 10.51% (38,855)
+  -Denver county had 82.78% (306,055)
+  -Arapahoe county had 6.71% (24,801)
 
-Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
 
-How many votes were cast in this congressional election?
 Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 Which county had the largest number of votes?
 Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
