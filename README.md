@@ -15,8 +15,9 @@ Denver County had the largest amount of votes with 306,055.
 - Charles Casper Stockham: 23.0% (85,213)
 - Diana DeGette: 73.8% (272,892)
 - Raymon Anthony Doane: 3.1% (11,606)
-
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-
+### Winner Summary
+- Winner: Diana DeGette
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
 
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
