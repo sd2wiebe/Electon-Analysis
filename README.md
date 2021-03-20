@@ -9,6 +9,7 @@ The prupose of this analysis is to summarize the [raw voting data](https://githu
 - Jefferson county had 10.51% (38,855)
 - Denver county had 82.78% (306,055)
 - Arapahoe county had 6.71% (24,801)
+
 Denver County had the largest amount of votes with 306,055.
 ### By candidate:
 - Charles Casper Stockham: 23.0% (85,213)
