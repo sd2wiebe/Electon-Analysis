@@ -20,4 +20,10 @@ Denver County had the largest amount of votes with 306,055.
 - Winning Vote Count: 272,892
 - Winning Percentage: 73.8%
 
+## Election Audit Summary
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
+This summary of voting data can be collected for any election using my code, barring some minor changes which I will address below.
+The first thing that will have to be looked at is what columns of the raw data display the candidates name for each vote. The dataset used for this analysis displayed the candidate name for each vote on the third column or each row:
+
+thus starting from 0 in the code we used an index of 2: 
+```candidate_name = row[2]```
