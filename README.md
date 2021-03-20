@@ -34,4 +34,3 @@ So for our analysis, to collect the candidate names we used:
 ```candidate_name = row[2]```
 In order to alter this to fit a different data set, we simply need to replace ```[2]``` with the correct index corresponding to the candidate name.
 Similarly, we need to change the index for ```County_name = row[1]``` to index the correct column in the new dataset that represents the name of the County/State etc.
-
